@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704387150484",
+    "firebase_url": "https://chathype-c8c5c.firebaseio.com",
+    "project_id": "chathype-c8c5c",
+    "storage_bucket": "chathype-c8c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704387150484:android:95d9e4dc02af292f",
+        "android_client_info": {
+          "package_name": "com.example.g2.chathype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704387150484-p98oa354risuku80umufdb7s7vs3k7ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.g2.chathype",
+            "certificate_hash": "c715cf307438dc437a70517b7039e0f950b5947c"
+          }
+        },
+        {
+          "client_id": "704387150484-s7prnb116s60otfhqr6vebq8s90darim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3766lMGFnkM2-FB-WU_BEPJgIu4JKFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704387150484-s7prnb116s60otfhqr6vebq8s90darim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
